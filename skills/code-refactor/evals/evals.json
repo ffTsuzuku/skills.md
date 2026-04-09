@@ -1,0 +1,18 @@
+{
+  "skill_name": "refactor-php-laravel",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Refactor this php code for me. It's a controller method that's gotten out of hand.",
+      "expected_output": "The code should be split into smaller methods, lines wrapped at 80 characters, magic numbers replaced, and a refactor_plan.md should be created.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Refactor this php code for me. Clean up the invoice processing logic.",
+      "expected_output": "The code should be split into smaller methods, lines wrapped at 80 characters, magic numbers replaced, and a refactor_plan.md should be created.",
+      "files": []
+    }
+  ]
+}
+
