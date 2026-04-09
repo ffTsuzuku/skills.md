@@ -1,4 +1,4 @@
-# Gemini CLI Skills
+# Agent CLI Skills
 
 Some personal agent skills I'm developing using the open source standard set by Anthropic. [Link](https://www.agentskills.io)
 
