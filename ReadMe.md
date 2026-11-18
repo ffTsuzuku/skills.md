@@ -24,6 +24,10 @@ Refactors code toward small, intention-revealing, testable, low-coupling design 
 Generates comprehensive, structurally correct PHPUnit test suites for Laravel service classes, models, jobs, controllers, and custom logic.
 - **Use when:** Writing test coverage, diagnosing untested branches, or building robust test suites in Laravel projects.
 
+### [Partition-driven Testing](./skills/partition-driven-testing/SKILL.md)
+Designs focused test suites from input partitions and boundary cases, with a case ledger and visual coverage tables. Complements existing testing and TDD workflows without adding redundant tests.
+- **Use when:** Choosing test cases, reviewing coverage, fixing regressions, or reducing redundant tests.
+
 ### [Session Summary Artifact](./skills/session-summary-artifact/SKILL.md)
 Generates an end-to-end architectural flow and comprehensive walkthrough artifact summarizing the session's work, request journey, and code changes.
 - **Use when:** Generating high-context handover artifacts and post-session architecture reviews.
